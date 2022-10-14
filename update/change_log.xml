@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>plg_captcha_sallecta</element>
+		<type>plugin</type>
+		<version>1.0.0</version>
+		<note>
+			<item>Initial</item>
+		</note>
+	</changelog>
+	<changelog>
+		<element>plg_captcha_sallecta</element>
+		<type>plugin</type>
+		<version>1.0.1</version>
+		<note>
+			<item>Reenabled online update</item>
+		</note>
+	</changelog>
+	<changelog>
+		<element>plg_captcha_sallecta</element>
+		<type>plugin</type>
+		<version>1.0.2</version>
+		<note>
+			<item>Added change log for Joomla!</item>
+		</note>
+	</changelog>
+</changelogs>

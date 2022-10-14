@@ -6,8 +6,8 @@
 	<authorUrl>https://github.com/sallecta/captchasallecta</authorUrl>
 	<copyright>(C)Alexander Gribkov 2022, ARENAM 2021. All rights reserved.</copyright>
 	<license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
-	<creationDate>13 October 2022</creationDate>
-	<version>1.0.0</version>
+	<creationDate>14 October 2022</creationDate>
+	<version>1.0.2</version>
 	<description>Adds Completely Automated Public Turing test to tell Computers and Humans Apart into any form on your Joomla! website.</description>
 	<scriptfile>script.php</scriptfile>
 	<files>
@@ -350,6 +350,7 @@
 			
         </fields>
 	</config>
+	<changelogurl>https://raw.githubusercontent.com/sallecta/captcha_sallecta/main/update/change_log.xml</changelogurl>
 	<updateservers>
 		<server type="extension" priority="1" name="Captcha Sallecta update server">https://raw.githubusercontent.com/sallecta/captcha_sallecta/main/update/updt.xml</server>
     </updateservers>
