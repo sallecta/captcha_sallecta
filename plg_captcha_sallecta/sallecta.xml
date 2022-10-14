@@ -8,7 +8,7 @@
 	<license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
 	<creationDate>13 October 2022</creationDate>
 	<version>1.0.0</version>
-	<description>Captcha Sallecta fits into any form on your website, and its flexible settings allow you to create from the simplest to the most complex verification codes.</description>
+	<description>Adds Completely Automated Public Turing test to tell Computers and Humans Apart into any form on your Joomla! website.</description>
 	<scriptfile>script.php</scriptfile>
 	<files>
 		<filename plugin="sallecta">sallecta.php</filename>
