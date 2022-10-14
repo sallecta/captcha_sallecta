@@ -3,9 +3,9 @@
 	<changelog>
 		<element>plg_captcha_sallecta</element>
 		<type>plugin</type>
-		<version>1.0.0</version>
+		<version>1.0.2</version>
 		<note>
-			<item>Initial</item>
+			<item>Added change log for Joomla!</item>
 		</note>
 	</changelog>
 	<changelog>
@@ -19,9 +19,9 @@
 	<changelog>
 		<element>plg_captcha_sallecta</element>
 		<type>plugin</type>
-		<version>1.0.2</version>
+		<version>1.0.0</version>
 		<note>
-			<item>Added change log for Joomla!</item>
+			<item>Initial</item>
 		</note>
 	</changelog>
 </changelogs>
