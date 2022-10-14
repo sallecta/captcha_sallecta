@@ -6,7 +6,7 @@
 		<type>plugin</type>
 		<element>sallecta</element>
 		<folder>captcha</folder>
-		<client>0</client>
+		<client>site</client>
 		<version>1.0.1</version>
 		<infourl title="Captcha Sallecta release notes">https://htmlpreview.github.io/?https://github.com/sallecta/captcha_sallecta/blob/main/releases/plg_captcha_sallecta_1.0.1.html</infourl>
 		<downloads>
