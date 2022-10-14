@@ -351,6 +351,6 @@
         </fields>
 	</config>
 	<updateservers>
-		<server type="extension" priority="1" name="Captcha Sallecta update server">https://github.com/sallecta/captchasallecta</server>
+		<server type="extension" priority="1" name="Captcha Sallecta update server">https://raw.githubusercontent.com/sallecta/captcha_sallecta/main/updates/updt.xml</server>
     </updateservers>
 </extension>
