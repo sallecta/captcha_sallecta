@@ -5,7 +5,7 @@
 		<element>sallecta</element>
 		<version>1.0.2</version>
 		<note>
-			<item>Added change log for Joomla!</item>
+			<item>Initial Joomla! change log integration</item>
 		</note>
 	</changelog>
 	<changelog>
